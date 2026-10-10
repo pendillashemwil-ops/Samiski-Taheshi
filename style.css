@@ -81,7 +81,7 @@ body {
 @media only screen and (max-width: 600px) {
     .Header {
     text-align: center;
-    font-size: 20px;
+    font-size: 12px;
     color: rgb(100, 193, 255);
     font-family: "MyFont";
     background: linear-gradient(to right, rgba(26, 209, 255, 0.589) 0%, rgba(233, 251, 255, 0.884) 50%, rgba(26, 209, 255, 0.589) 100%);
