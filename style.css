@@ -189,10 +189,10 @@ body {
     overflow-y: auto;
     }
     .Pages img {
-        width: 200px;
+        width: 150px;
     }
     .Contact img {
-        width: 200px;
+        width: 150px;
     }
     .AboutPanel {
     color: rgb(255, 255, 255);
@@ -275,7 +275,7 @@ body {
     }
     .Denji {
     position: absolute;
-    transform: translate(430%, 30%) rotate(-20deg);
+    transform: translate(400%, 30%) rotate(-20deg);
     max-width: 13%;
     height: auto;
     border-radius: 5px;
@@ -401,10 +401,10 @@ body {
     overflow-y: auto;
     }
     .Pages img {
-        width: 200px;
+        width: 150px;
     }
     .Contact img {
-        width: 200px;
+        width: 150px;
     }
     .AboutPanel {
     color: rgb(255, 255, 255);
@@ -487,7 +487,7 @@ body {
     }
     .Denji {
     position: absolute;
-    transform: translate(430%, 30%) rotate(-20deg);
+    transform: translate(400%, 30%) rotate(-20deg);
     max-width: 13%;
     height: auto;
     border-radius: 5px;
