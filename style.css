@@ -106,7 +106,7 @@ body {
     height: 300px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -129,7 +129,7 @@ body {
     height: 300px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -152,7 +152,7 @@ body {
     height: 300px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -175,7 +175,7 @@ body {
     height: 300px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -201,7 +201,7 @@ body {
     border-radius: 5px;
     text-align: center;
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -221,7 +221,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -241,7 +241,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -261,7 +261,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -318,7 +318,7 @@ body {
     height: 350px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -341,7 +341,7 @@ body {
     height: 350px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -364,7 +364,7 @@ body {
     height: 350px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -387,7 +387,7 @@ body {
     height: 350px;
     text-align: center;
     font-family: "MyFont";
-    font-size: 12px;
+    font-size: 10px;
     padding: 30px;
     line-height: 1.6;
     background: linear-gradient(rgba(0, 147, 245, 0.301), rgba(246, 251, 255, 0.445)) padding-box,
@@ -413,7 +413,7 @@ body {
     border-radius: 5px;
     text-align: center;
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -433,7 +433,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -453,7 +453,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
@@ -473,7 +473,7 @@ body {
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
     padding: 30px;
-    width: 93%;
+    width: 91%;
     font-family: "MyFont";
     transition: 1s;
     cursor: pointer;
