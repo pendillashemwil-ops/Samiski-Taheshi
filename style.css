@@ -1261,7 +1261,7 @@ a:hover {
     margin: 20px;
     transition: 1s;
     position: absolute;
-    left: 40%;
+    left: 50%;
     transform: translateX(-65%);
 }
 .Watermark:hover {
