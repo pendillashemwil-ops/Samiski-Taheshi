@@ -28,6 +28,7 @@ body {
     transition: 1s;
     opacity: 0;
     animation: fadeIn 1s forwards;
+    overflow-y: auto;
 }
 @keyframes fadeIn {
     to {
@@ -101,8 +102,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
-    height: 350px;
+    width: 70%;
+    height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 12px;
@@ -124,8 +125,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
-    height: 350px;
+    width: 70%;
+    height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 12px;
@@ -147,8 +148,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
-    height: 350px;
+    width: 70%;
+    height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 12px;
@@ -170,8 +171,8 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -20%);
-    width: 75%;
-    height: 350px;
+    width: 70%;
+    height: 300px;
     text-align: center;
     font-family: "MyFont";
     font-size: 12px;
@@ -199,7 +200,7 @@ body {
     border: 2px solid ;
     border-radius: 5px;
     text-align: center;
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -219,7 +220,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -239,7 +240,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -259,7 +260,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -313,7 +314,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
+    width: 70%;
     height: 350px;
     text-align: center;
     font-family: "MyFont";
@@ -336,7 +337,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
+    width: 70%;
     height: 350px;
     text-align: center;
     font-family: "MyFont";
@@ -359,7 +360,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -25%);
-    width: 75%;
+    width: 70%;
     height: 350px;
     text-align: center;
     font-family: "MyFont";
@@ -382,7 +383,7 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -20%);
-    width: 75%;
+    width: 70%;
     height: 350px;
     text-align: center;
     font-family: "MyFont";
@@ -411,7 +412,7 @@ body {
     border: 2px solid ;
     border-radius: 5px;
     text-align: center;
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -431,7 +432,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -451,7 +452,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
@@ -471,7 +472,7 @@ body {
     border-radius: 5px;
     text-align: center;
     background-color: rgba(26, 209, 255, 0.589);
-    padding: 40px;
+    padding: 30px;
     width: 94%;
     font-family: "MyFont";
     transition: 1s;
